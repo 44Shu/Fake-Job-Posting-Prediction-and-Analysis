@@ -14,6 +14,6 @@
 
 ## References
 <a id="1">[1]</a> 
-Vidros, S., Kolias, C., Kambourakis, G., Akoglu, L.: Automatic detection of online recruitment frauds: Characteristics, methods, and a public dataset. Future
+Vidros, S., Kolias, C., Kambourakis, G., Akoglu, L.: Automatic detection of online recruitment frauds: Characteristics, methods, and a public dataset. Future
 Internet 9(1) (2017). https://doi.org/10.3390/fi9010006, https://www.mdpi.com/
 1999-5903/9/1/
