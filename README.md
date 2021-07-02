@@ -1,5 +1,7 @@
 # Fake-Job-Posting-Prediction-and-Analysis
 
+### Project mentor: Trevor Ruiz
+
 1) In this project, we develop and explore data-driven strategies to identify fraudulent job posts and advertisements.
 2) The dataset we will use a publicly-available dataset from the University of the Aegean [1] comprising 18,000 job descriptions, of which approximately 800 are flagged as fraudulent.
 3) Refer to the Job Posts Prediction and Analysis.ipynb for text manipulation, cleaning, and processing. Machine Learning models training details and experiment results can be directly replicated using this notebook.
@@ -8,8 +10,6 @@
         <p>This browser does not support PDFs. Please download the project report to view it: <a href="https://github.com/44Shu/Fake-Job-Posting-Prediction-and-Analysis/blob/main/Final%20Report.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
-### Project mentor: Trevor Ruiz
 
 
 ## References
